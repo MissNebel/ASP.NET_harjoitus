@@ -1,0 +1,176 @@
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\ApplicationInsights.config
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Dogs.dll.config
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Dogs.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Dogs.pdb
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\csc.exe
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\csc.exe.config
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\csc.rsp
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\csi.exe
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\csi.exe.config
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\csi.rsp
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.AppContext.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Console.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\vbc.exe
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\vbc.exe.config
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\vbc.rsp
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Antlr3.Runtime.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.Web.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Newtonsoft.Json.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\System.Web.Optimization.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\WebGrease.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\System.Web.Optimization.xml
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Newtonsoft.Json.xml
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Antlr3.Runtime.pdb
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.Web.xml
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\obj\Debug\Dogs.csproj.CoreCompileInputs.cache
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\obj\Debug\Dogs.csproj.CopyComplete
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\obj\Debug\Dogs.dll
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\obj\Debug\Dogs.pdb
+C:\Users\Mellu\Desktop\ASP.NET\exe501_tallqvist_melina\Dogs\obj\Debug\Dogs.csprojAssemblyReference.cache
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\ApplicationInsights.config
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Dogs.dll.config
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Dogs.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Dogs.pdb
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\csc.exe
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\csc.exe.config
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\csc.rsp
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\csi.exe
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\csi.exe.config
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\csi.rsp
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.AppContext.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Console.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.IO.Compression.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.IO.Pipes.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Claims.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Threading.Thread.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.ValueTuple.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Xml.XPath.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\vbc.exe
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\vbc.exe.config
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\vbc.rsp
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\VBCSCompiler.exe
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Antlr3.Runtime.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.Web.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.ApplicationInsights.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Newtonsoft.Json.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\System.Web.Optimization.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\WebGrease.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\System.Web.Optimization.xml
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Newtonsoft.Json.xml
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Antlr3.Runtime.pdb
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.AI.Web.xml
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\obj\Debug\Dogs.csprojAssemblyReference.cache
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\obj\Debug\Dogs.csproj.CoreCompileInputs.cache
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\obj\Debug\Dogs.csproj.CopyComplete
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\obj\Debug\Dogs.dll
+C:\Users\melin\Desktop\Melinan portfolio\exe501_tallqvist_melina\Dogs\obj\Debug\Dogs.pdb
